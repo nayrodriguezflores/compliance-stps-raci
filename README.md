@@ -1,10 +1,6 @@
 # 🛠️ STPS HUB V2.0: NOM-SMART AUDITOR
 ### Procesamiento del Lenguaje Natural (PLN) Aplicado al Compliance Industrial
 
-[![Python](https://shields.io)](https://python.org)
-[![spaCy](https://shields.io)](https://spacy.io)
-[![License](https://shields.io)]()
-
 Este repositorio aloja el core técnico del modelo **NOM-Smart Auditor**, un pipeline de ingeniería lingüística automatizado diseñado específicamente para mitigar riesgos regulatorios, optimizar tiempos operativos y prevenir multas de la STPS dentro de la cadena de suministro de la industria.
 
 ---
@@ -31,7 +27,7 @@ graph LR
 
 ### 📥 Fase 1: Ingesta y Aislamiento
 *   **Segmentación del DOF:** Algoritmo de fragmentación automatizada de normativas laborales mexicanas.
-*   **Granularidad:** Aislamiento de **129 unidades mínimas de cumplimiento** normativo.
+*   **Granularidad:** Aislamiento de **119 unidades mínimas de cumplimiento** normativo.
 
 ### 🧠 Fase 2: Motor PLN Avanzado
 *   **Ingeniería Lingüística:** Análisis sintáctico profundo aplicado a la identificación de **verbos imperativos** y cláusulas absolutas de obligación.

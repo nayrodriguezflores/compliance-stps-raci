@@ -5,7 +5,7 @@
 [![spaCy](https://shields.io)](https://spacy.io)
 [![License](https://shields.io)]()
 
-Este repositorio aloja el core técnico del modelo **NOM-Smart Auditor**, un pipeline de ingeniería lingüística automatizado diseñado específicamente para mitigar riesgos regulatorios, optimizar tiempos operativos y prevenir multas de la STPS dentro de la cadena de suministro de la industria automotriz.
+Este repositorio aloja el core técnico del modelo **NOM-Smart Auditor**, un pipeline de ingeniería lingüística automatizado diseñado específicamente para mitigar riesgos regulatorios, optimizar tiempos operativos y prevenir multas de la STPS dentro de la cadena de suministro de la industria.
 
 ---
 

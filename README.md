@@ -1,6 +1,11 @@
 # 🛠️ STPS HUB V2.0: NOM-SMART AUDITOR
 ### Procesamiento del Lenguaje Natural (PLN) Aplicado al Compliance Industrial
+---
 
+## 🚀 ACCESO DIRECTO AL MOTOR DE CÓDIGO
+### [👉 DAR CLIC AQUÍ PARA ABRIR LA LIBRETA EN PYTHON (GOOGLE COLAB) 👈](https://github.com)
+
+---
 Este repositorio aloja el core técnico del modelo **NOM-Smart Auditor**, un pipeline de ingeniería lingüística automatizado diseñado específicamente para mitigar riesgos regulatorios, optimizar tiempos operativos y prevenir multas de la STPS dentro de la cadena de suministro de la industria.
 
 ---
@@ -54,5 +59,5 @@ En paralelo con el despliegue del software, se ofrece acompañamiento profesiona
 
 ## 👩‍💻 Desarrolladora y Contacto
 *   **Nombre:** Nayeli Rodríguez Flores
-*   **Perfil:** Analista en Tecnologías del Lenguaje e IA Aplicada | Licenciatura en Literatura Intercultural (Área de Tradición Clásica - UNAM).
+*   **Perfil:** Analista en Tecnologías del Lenguaje e IA Aplicada | Licenciatura en Literatura Intercultural (Área de Tradición Clásica - UNAM); Especialización Técnica (Cálamo & Cran)
 *   **Contacto:** nayelirfali@gmail.com | +52 241 105 40 05
